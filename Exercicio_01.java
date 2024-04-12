@@ -19,10 +19,10 @@ public class Exercicio_01{
 				diferenca = num1 - num2;
 				produto = num1 * num2;
 				quociente = num1 / num2;
-				System.out.printf("O valor da soma desses numeros eh: %d\n", soma);
-				System.out.printf("O valor da diferenca desses numeros eh: %d\n", diferenca);
-				System.out.printf("O valor do produto desses numeros e: %d\n", produto);
-				System.out.printf("O valor do quociente desses numeros e: %d\n", quociente);
+				System.out.printf("O valor da soma desses numeros é: %d\n", soma);
+				System.out.printf("O valor da diferenca desses numeros é: %d\n", diferenca);
+				System.out.printf("O valor do produto desses numeros é: %d\n", produto);
+				System.out.printf("O valor do quociente desses numeros é: %d\n", quociente);
 				
 			}
 		}
